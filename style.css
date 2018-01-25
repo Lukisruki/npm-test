@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Berkshire+Swash|Open+Sans");
+
+* {
+  box-sizing: border-box; 
+}
+
+body {
+    background: #fff;
+    background-image:  
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.container {
+    max-width: 600px;
+    background-image:
+    width: 70%;
+    margin: 20px auto;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center; 
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.highlight {
+    text-decoration: underline;
+}
+
